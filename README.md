@@ -19,7 +19,7 @@ conda install gpxpy pandas (srtm rdp)
 srtm rdp nicht in anaconda.
 
 #Für NetCDF Tutorial
-conda install netcdf4
+conda install netcdf4 xarray
 
 #Jupyter Notebook starten
 
