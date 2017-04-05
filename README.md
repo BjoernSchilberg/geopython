@@ -47,6 +47,10 @@ srtm rdp nicht in Miniconda.
 ```
 conda install netcdf4 xarray
 ```
+- Für Meereis Tutorial
+```
+conda install basemap-data-hires
+```
 
 #### Jupyter Notebook starten
 ```
