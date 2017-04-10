@@ -2,19 +2,13 @@
 
 ## Essential Python Geospatial Libraries
 
-- cartopy - For plotting spatial data
-- descartes - For plotting geometries in matplotlib
 - fiona - For making it easy to read/write geospatial data formats
-- geopy - For geolocating and things like that
 - ipython - For a wondering interactive environment in which to play
 - matplotlib - For all my plotting needs
 - numpy - For pretty much anything that involves arrays
 - ogr/gdal - For reading, writing, and transforming geospatial data formats
-- pandas - For data handling and munging
 - pyproj - For conversions between projections
-- pyshp - For reading and writing shapefiles (in pure Python)
-- rasteri - For raster handling
-- rtree - For efficiently querying spatial data
+- rasterio - For raster handling
 - shapely - For geometry handling
 
 ## Books on Python Geospatial Development
