@@ -1,5 +1,15 @@
 # geopython
 
+## Inhalte
+
+- [Arbeiten mit Geo Vektordaten](bsh.ipynb)
+- [Verschiedene Möglichkeiten Shapefiles zu laden/öffnen](shapefiles.ipynb)
+- [Koordinatentransformation mittels pyproj](proj4.ipynb)
+- [Arbeiten mit GPS Daten](bsh.ipynb)
+- [Arbeiten mit Landsat-Daten](Landsat.ipynb)
+- [Arbeiten mit dem Network Common Data Format (NetCDF) Dateiformat](netcdf.ipynb)
+- [Arbeiten mit Meereisdaten](meereisdaten.ipynb)
+
 ## Essential Python Geospatial Libraries
 
 - fiona - For making it easy to read/write geospatial data formats
