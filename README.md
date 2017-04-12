@@ -27,7 +27,7 @@
 
 ## Installation
 
-### Windows with Miniconda
+### GNU/Linux with Miniconda
 - [Miniconda](https://conda.io/miniconda.html)
 
 #### Miniconda in PATH aufnehmen.
@@ -74,8 +74,10 @@ conda info rasterio
 
 cat ~/.condarc
 ```
+### Install in Miniconda in Windows
+TODO
 
-### Unofficial Windows Binaries for Python Extension Packages
+### Unofficial Windows Binaries for Python Extension Packages (Alternative to Miniconda under Windows)
 - http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 - Download GDAL from: http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
@@ -93,5 +95,3 @@ pip install Fiona-1.6.3-cp35-none-win32.whl
 pip install pyproj-1.9.5-cp35-none-win32.whl
 ```
 
-### Install in GNU/Linux
-TODO
