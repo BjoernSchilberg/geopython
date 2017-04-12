@@ -28,7 +28,8 @@
 ## Installation
 
 ### GNU/Linux with Miniconda
-- [Miniconda](https://conda.io/miniconda.html)
+- [Miniconda Download](https://conda.io/miniconda.html)
+- [Linux Miniconda install](https://conda.io/docs/install/quick.html#linux-miniconda-install)
 
 #### Miniconda in PATH aufnehmen.
 export PATH=/home/bjoern/miniconda3/bin:$PATH
