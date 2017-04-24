@@ -36,6 +36,9 @@ export PATH=/home/bjoern/miniconda3/bin:$PATH
 
 #### conda-forge channel hinzufügen
 conda config --add channels conda-forge
+conda config --set ssl_verify false
+conda update openssl cryptography
+conda config --set ssl_verify true
 
 #### Benötigte Biblotheken aus dem conda-forge channel installieren
 
